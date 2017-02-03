@@ -1,5 +1,7 @@
 <?php
 
+    namespace BbRest;
+
 class User
 	{
 		public $id = '';

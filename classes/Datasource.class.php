@@ -1,4 +1,5 @@
 <?php
+    namespace BbRest;
 
 class Datasource {
 	public $id = '';

@@ -1,4 +1,6 @@
 <?php
+    namespace BbRest;
+
 class BbRestException
 {
 	public $status = '';

@@ -1,11 +1,13 @@
 <?php
-class Locale
-{
-	public $id = '';
+    namespace BbRest;
 
-	public $calendar = '';
+    class Locale
+    {
+        public $id = '';
 
-	public $firstDayOfWeek = '';
+        public $calendar = '';
 
-	public $force = '';
-}
+        public $firstDayOfWeek = '';
+
+        public $force = '';
+    }

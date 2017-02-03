@@ -1,15 +1,17 @@
 <?php
-class Address
-{
-	public $street1 = '123 Main Street';
+    namespace BbRest;
 
-	public $street2 = 'Apt K';
+    class Address
+    {
+        public $street1 = '123 Main Street';
 
-	public $city = 'Green Bay';
+        public $street2 = 'Apt K';
 
-	public $state = 'WI';
+        public $city = 'Green Bay';
 
-	public $zipCode = '11222';
+        public $state = 'WI';
 
-	public $country = 'USA';
-}
+        public $zipCode = '11222';
+
+        public $country = 'USA';
+    }

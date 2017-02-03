@@ -1,16 +1,17 @@
 <?php
+    namespace BbRest;
 
-class Term
-	{
-		public $id = '';
+    class Term
+    {
+        public $id = '';
 
-		public $externalId = 'BBDN-TERM-PHP';
+        public $externalId = 'BBDN-TERM-PHP';
 
-		public $dataSourceId = '';
-		
-		public $name = 'REST Demo Term - PHP';
+        public $dataSourceId = '';
 
-		public $description = 'Term Used For REST Demo - PHP';
+        public $name = 'REST Demo Term - PHP';
 
-		public $availability = '';
-	}
+        public $description = 'Term Used For REST Demo - PHP';
+
+        public $availability = '';
+    }

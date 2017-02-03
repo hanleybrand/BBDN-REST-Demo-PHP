@@ -1,4 +1,5 @@
 <?php
+    namespace BbRest;
 class Contact
 {
 	public $homePhone = '2025551212';
